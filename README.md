@@ -6,3 +6,5 @@ Para ver en ejecución:
 <code>
   python cliente.py
 </code>
+
+![Clases](clases.png)
